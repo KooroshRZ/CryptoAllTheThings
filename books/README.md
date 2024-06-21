@@ -1,1 +1,1 @@
-1. [An Introduction to Mathematical Cryptography](https://link.springer.com/book/10.1007/978-0-387-77993-5)
+1. [An Introduction to Mathematical Cryptography (2nd edition)](https://link.springer.com/book/10.1007/978-1-4939-1711-2)
