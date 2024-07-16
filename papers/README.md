@@ -8,6 +8,7 @@
 
 + [Pohlig-Hellman Applied in Elliptic Curve Cryptography](https://koclab.cs.ucsb.edu/teaching/ecc/project/2015Projects/Sommerseth+Hoeiland.pdf)
 + [LadderLeak: Breaking ECDSA With Less Than One Bit Of Nonce Leakage](https://eprint.iacr.org/2020/615.pdf)
++ [Comparing the MOV and FR Reductions in Elliptic Curve Cryptography](https://link.springer.com/content/pdf/10.1007/3-540-48910-X_14)
 
 
 # surveys
