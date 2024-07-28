@@ -14,6 +14,7 @@
 # surveys
 
 + [Montgomery curves and their arithmetic](https://eprint.iacr.org/2017/212.pdf)
++ [Weak Curves In Elliptic Curve Cryptography](https://wstein.org/edu/2010/414/projects/novotney.pdf)
 
 
 # blogs
