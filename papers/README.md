@@ -5,6 +5,7 @@
 # Lectures
 
 + [The discrete logarithm problem](https://math.mit.edu/classes/18.783/2022/LectureNotes9.pdf)
++ [Lecture Notes on Cryptography](https://shrek.unideb.hu/~tengely/crypto/)
 
 # papers
 
@@ -22,4 +23,3 @@
 # blogs
 
 + [Elliptic curve cryptography stuff](https://ecc.danil.co/)
-
