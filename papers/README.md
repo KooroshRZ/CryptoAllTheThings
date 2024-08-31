@@ -2,7 +2,9 @@
 
 + [Classical Attacks on Elliptic Curve Cryptosystems](https://cy2sec.comm.eng.osaka-u.ac.jp/ecc2018/slide/slide_school/1117-1%20ecc2018-lecture%20Mehdi.pdf)
 
+# Lectures
 
++ [The discrete logarithm problem](https://math.mit.edu/classes/18.783/2022/LectureNotes9.pdf)
 
 # papers
 
@@ -20,3 +22,4 @@
 # blogs
 
 + [Elliptic curve cryptography stuff](https://ecc.danil.co/)
+
